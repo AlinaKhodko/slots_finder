@@ -1,0 +1,13 @@
+2026-06-26 16:20:32,163 DEBUG Using selector: KqueueSelector
+2026-06-26 16:20:32,899 INFO Checking Kharkiv ...
+2026-06-26 16:20:37,292 DEBUG Dumped Kharkiv page text to dump/Kharkiv.txt
+2026-06-26 16:20:37,292 DEBUG Kharkiv body snippet: +38 (044) 597-87-77 | Email | Чатбот | Відчинено | Facebook | Instagram | Пошук... | Пошук | Запис онлайн | Eng | Паспортний сервіс ДП «Документ»: м. Харків, проспект Науки, 62 | Послуги | Сервіси | FAQ | Новини | Про нас | Центри | Повернутися до | ДП «Документ» | Оберіть центр поруч з вами | Паспортний сервіс ДП «Документ»: м. Харків, проспект Науки, 62 | Eng | Пошук... | Пошук | Facebook | Inst
+2026-06-26 16:20:37,292 INFO Kharkiv: free=False reason=all-taken (previous free=True)
+2026-06-26 16:20:37,292 INFO Checking Kortrijk ...
+2026-06-26 16:20:40,482 DEBUG Dumped Kortrijk page text to dump/Kortrijk.txt
+2026-06-26 16:20:40,483 DEBUG Kortrijk body snippet: +38 (044) 597-87-77 | Email | Чатбот | Відчинено | Facebook | Instagram | Пошук... | Пошук | Запис онлайн | Eng | Паспортний сервіс ДП «Документ»: м. Кортрейк, Kloosterstraat 9 – 8510 Marke | Послуги | Сервіси | FAQ | Новини | Про нас | Центри | Повернутися до | ДП «Документ» | Оберіть центр поруч з вами | Паспортний сервіс ДП «Документ»: м. Кортрейк, Kloosterstraat 9 – 8510 Marke | Eng | Пошук...
+2026-06-26 16:20:40,483 INFO Kortrijk: free=False reason=all-taken (previous free=False)
+2026-06-26 16:20:40,483 INFO Checking Cologne ...
+2026-06-26 16:20:43,636 DEBUG Dumped Cologne page text to dump/Cologne.txt
+2026-06-26 16:20:43,636 DEBUG Cologne body snippet: +38 (044) 597-87-77 | Email | Чатбот | Відчинено | Facebook | Instagram | Пошук... | Пошук | Запис онлайн | Eng | Паспортний сервіс ДП «Документ»: м. Кельн, Händelstraße 25−29 | Послуги | Сервіси | FAQ | Новини | Про нас | Центри | Повернутися до | ДП «Документ» | Оберіть центр поруч з вами | Паспортний сервіс ДП «Документ»: м. Кельн, Händelstraße 25−29 | Eng | Пошук... | Пошук | Facebook | Instag
+2026-06-26 16:20:43,636 INFO Cologne: free=False reason=all-taken (previous free=False)
